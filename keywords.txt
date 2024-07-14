@@ -1,0 +1,6 @@
+SolenoidDriver  KEYWORD1
+on              KEYWORD2
+off             KEYWORD2
+setPower        KEYWORD2
+now             KEYWORD2
+alive           KEYWORD2
